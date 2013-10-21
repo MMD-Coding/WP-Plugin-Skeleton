@@ -1,0 +1,22 @@
+{
+    "name": "mmdc/wp-plugin-skeleton",
+    "description": "Wordpress Plugin Skeleton",
+    "keywords": ["wordpress", "plugin", "skeleton"],
+    "homepage": "https://github.com/MMD-Coding/WP-Plugin-Skeleton",
+    "authors": [
+        {
+            "name": "MMD-Coding",
+            "email": "info@mmd-coding.de",
+            "homepage": "http://www.mmd-coding.de/"
+        }
+    ],
+    "require": {
+        "twig/twig": "~v1.13.1",
+    },
+    "autoload": {
+        "psr-0": {
+            "MMDC": "lib/"
+        }
+    }
+
+}

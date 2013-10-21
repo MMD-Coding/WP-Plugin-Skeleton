@@ -11,12 +11,11 @@
         }
     ],
     "require": {
-        "twig/twig": "~v1.13.1",
+        "twig/twig": "v1.14.*"
     },
     "autoload": {
         "psr-0": {
             "MMDC": "lib/"
         }
     }
-
 }

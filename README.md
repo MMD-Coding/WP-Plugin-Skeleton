@@ -18,7 +18,7 @@ You need Composer to use this skeleton:
 
    `php composer.phar create-project mmdc/wp-plugin-skeleton [my-plugin-name]`
 
-or using system-wide installed composer
+    or using system-wide installed composer
 
    `composer create-project mmdc/wp-plugin-skeleton [my-plugin-name]`
 
